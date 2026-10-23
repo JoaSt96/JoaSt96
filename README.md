@@ -28,12 +28,6 @@ The full stories live at [stok.sobrado.tech](https://stok.sobrado.tech).
   <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,aws,cloudflare,githubactions&theme=dark" alt="Docker, AWS, Cloudflare, GitHub Actions" />
 </p>
 
-<!-- Enable once the Metrics workflow has run for the first time.
-### Activity
-
-<img src="https://raw.githubusercontent.com/JoaSt96/JoaSt96/main/metrics.svg" alt="GitHub metrics" width="100%" />
--->
-
 ---
 
 <div align="center">
