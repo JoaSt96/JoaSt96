@@ -2,7 +2,8 @@ name: Metrics
 
 on:
   schedule:
-    - cron: "0 6 * * *"
+    # Monthly: often enough to keep GitHub from disabling the schedule after 60 idle days.
+    - cron: "0 6 1 * *"
   workflow_dispatch:
 
 permissions:
