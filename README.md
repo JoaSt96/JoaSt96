@@ -4,7 +4,7 @@
 
 **Building the foundations product teams build on — across fintech, healthcare and e-commerce.**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-stok.sobrado.tech-c6ff3d?style=for-the-badge&labelColor=0b0b0b)](https://stok.sobrado.tech) [![LinkedIn](https://img.shields.io/badge/LinkedIn-joaquin--stok-0A66C2?style=for-the-badge&labelColor=0b0b0b)](https://www.linkedin.com/in/joaquin-stok-/) [![Email](https://img.shields.io/badge/Email-Contact_me-ffb02e?style=for-the-badge&labelColor=0b0b0b)](mailto:joaquin.stok@hotmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-stok.sobrado.tech-c6ff3d?style=for-the-badge&labelColor=0b0b0b)](https://stok.sobrado.tech) [![LinkedIn](https://img.shields.io/badge/LinkedIn-joaquin--stok-0A66C2?style=for-the-badge&labelColor=0b0b0b)](https://www.linkedin.com/in/joaquin-stok-/)
 
 </div>
 
