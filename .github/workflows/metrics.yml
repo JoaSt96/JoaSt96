@@ -12,13 +12,18 @@ jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      # Pinned to v3.34 by commit SHA so the action can't change under us.
+      - uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.svg
           user: JoaSt96
           template: classic
           base: header, activity, repositories
+          # Only count repositories owned by the account, never company orgs.
+          repositories_affiliations: owner
+          # Never list repository names from private activity.
+          plugin_activity: no
           config_timezone: America/Argentina/Buenos_Aires
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
